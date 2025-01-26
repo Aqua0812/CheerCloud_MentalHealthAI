@@ -58,6 +58,8 @@ We hope this platform becomes a source of comfort and empowerment for anyone who
 
 ## 🎥 Demo Walkthrough
 
+[Demo Video - Youtube](https://youtu.be/A1E82KgPGGg?si=VFIuV-vXTI1uJceK)
+
 - **Onboarding and Authentication**  
   Navigate through user-friendly sign-up and login pages with Clerk integration.
 
