@@ -130,7 +130,7 @@ We hope this platform becomes a source of comfort and empowerment for anyone who
      cd client
      npm run dev
    ```
-   ```bach
+   ```bash
      cd backend
      npm start
    ```
