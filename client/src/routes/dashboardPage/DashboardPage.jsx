@@ -38,30 +38,30 @@ const DashboardPage = () => {
       <div className="texts">
         <div className="logo">
           <img src="/logo.png" alt="" />
-          <h1>LAMA AI</h1>
+          <h1>CheerCloud</h1>
         </div>
         <div className="options">
           <div className="option">
             <img src="/chat.png" alt="" />
-            <span>Create a New Chat</span>
+            <span>Start a Mental Wellness Check</span>
           </div>
 
           <div className="option">
             <img src="/image.png" alt="" />
-            <span>Analyze Images</span>
+            <span>Guided Relaxation Exercises</span>
           </div>
 
           <div className="option">
             <img src="/code.png" alt="" />
-            <span>Help me with my Code</span>
+            <span>Daily Affirmations</span>
           </div>
         </div>
       </div>
       <div className="formContainer">
         <form onSubmit={handleSubmit}>
-          <input type="text" name="text" placeholder='Ask me anything...' />
+          <input type="text" name="text" placeholder='Ask me anything...' autocomplete="new-password"  />
           <button>
-            <img src="/arrow.png" alt="" />
+            <img src="/arrow1.png" alt="" />
           </button>
         </form>
       </div>

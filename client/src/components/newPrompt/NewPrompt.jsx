@@ -144,9 +144,9 @@ const NewPrompt = ({ data }) => {
       <form className="newForm" onSubmit={handleSubmit} ref={formRef}>
         <Upload setImg={setImg} />
         <input id="file" type="file" multiple={false} hidden />
-        <input type="text" name="text" placeholder="Ask me anything..." />
+        <input type="text" name="text" placeholder="Ask me anything..." autocomplete="new-password"  />
         <button>
-          <img src="/arrow.png" alt="" />
+          <img src="/arrow1.png" alt="" />
         </button>
       </form>
     </>
