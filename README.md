@@ -2,6 +2,9 @@
 
 A compassionate AI-driven platform designed to provide mental health support through thoughtful conversation and prompt engineering tailored to your well-being. 💙
 
+> ✨ Watch our presentation:
+> [CheerCloud - YouTube](https://youtu.be/y0ESCc-DM40)
+
 ---
 
 ## 🏆 Project Highlights
