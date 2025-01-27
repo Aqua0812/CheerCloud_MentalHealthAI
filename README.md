@@ -153,4 +153,10 @@ This project was developed by a passionate team of mental health advocates and d
 
 ---
 
+## 🏆 Inspirtation
+
+This project was inspired by [Lama AI](https://github.com/safak/chatgpt-clone/tree/starter) (click the link for details).
+
+---
+
 Thank you for choosing **CheerCloud** to support your mental well-being. 🌟 Let’s work together for a healthier mind and a brighter future! ☁
